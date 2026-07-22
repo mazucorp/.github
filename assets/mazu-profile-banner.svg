@@ -5,20 +5,15 @@
     <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#011F3B"/>
       <stop offset="0.62" stop-color="#03223F"/>
-      <stop offset="1" stop-color="#072E52"/>
+      <stop offset="1" stop-color="#05294B"/>
     </linearGradient>
-    <radialGradient id="brand-glow" cx="0.86" cy="0.35" r="0.62">
-      <stop offset="0" stop-color="#2F79CE" stop-opacity="0.20"/>
-      <stop offset="0.48" stop-color="#28507E" stop-opacity="0.10"/>
-      <stop offset="1" stop-color="#03223F" stop-opacity="0"/>
-    </radialGradient>
     <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#B8892E"/>
       <stop offset="0.52" stop-color="#D3AC55"/>
       <stop offset="1" stop-color="#E4CC91"/>
     </linearGradient>
     <pattern id="grid" width="72" height="72" patternUnits="userSpaceOnUse">
-      <path d="M72 0H0V72" fill="none" stroke="#DDECF9" stroke-opacity="0.06" stroke-width="1"/>
+      <path d="M72 0H0V72" fill="none" stroke="#F8F4EA" stroke-opacity="0.05" stroke-width="1"/>
     </pattern>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
       <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#00101C" flood-opacity="0.26"/>
@@ -26,7 +21,6 @@
   </defs>
 
   <rect width="1400" height="460" rx="28" fill="url(#panel)"/>
-  <rect width="1400" height="460" rx="28" fill="url(#brand-glow)"/>
   <rect width="1400" height="460" rx="28" fill="url(#grid)"/>
   <path d="M0 28C0 12.536 12.536 0 28 0H1372C1387.46 0 1400 12.536 1400 28V31H0V28Z" fill="url(#signal)"/>
   <rect x="54" y="74" width="5" height="312" rx="2.5" fill="#D3AC55"/>
@@ -35,18 +29,18 @@
     <text x="0" y="0" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="6" fill="#E4CC91">MAZU CORP</text>
     <text x="0" y="58" dominant-baseline="hanging" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700" fill="#F8F4EA">Controlled software.</text>
     <text x="0" y="140" dominant-baseline="hanging" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-style="italic" fill="#D3AC55">Clearer decisions.</text>
-    <text x="4" y="242" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#DDECF9">Private software systems for high-stakes professional work.</text>
-    <text x="4" y="291" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3.5" fill="#9FC5E8">PURPOSEFUL SOFTWARE  &#8226;  DELIBERATE DESIGN  &#8226;  CLEAR OUTCOMES</text>
+    <text x="4" y="242" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#F8F4EA" fill-opacity="0.9">Private software systems for high-stakes professional work.</text>
+    <text x="4" y="291" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3.5" fill="#F8F4EA" fill-opacity="0.7">PURPOSEFUL SOFTWARE  &#8226;  DELIBERATE DESIGN  &#8226;  CLEAR OUTCOMES</text>
   </g>
 
   <g transform="translate(1056 76)" filter="url(#shadow)">
-    <rect width="288" height="310" rx="20" fill="#F8F4EA" fill-opacity="0.075" stroke="#2F79CE" stroke-opacity="0.34"/>
+    <rect width="288" height="310" rx="20" fill="#05294B" stroke="#2F79CE" stroke-opacity="0.4"/>
     <circle cx="144" cy="140" r="62" fill="none" stroke="#2F79CE" stroke-opacity="0.24" stroke-width="12"/>
     <circle cx="144" cy="140" r="62" fill="none" stroke="#D3AC55" stroke-width="2" stroke-dasharray="284 106" transform="rotate(-90 144 140)"/>
     <circle cx="144" cy="140" r="45" fill="#03223F" stroke="#2F79CE" stroke-opacity="0.42"/>
     <circle cx="144" cy="140" r="7" fill="#2F79CE"/>
-    <path d="M144 103V126M144 154V177M107 140H130M158 140H181" stroke="#9FC5E8" stroke-opacity="0.58" stroke-width="1.5"/>
+    <path d="M144 103V126M144 154V177M107 140H130M158 140H181" stroke="#F8F4EA" stroke-opacity="0.5" stroke-width="1.5"/>
     <text x="144" y="230" text-anchor="middle" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.5" fill="#F8F4EA">PRIVATE BY DESIGN</text>
-    <text x="144" y="265" text-anchor="middle" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.2" fill="#9FC5E8">UNITED KINGDOM / GLOBAL DELIVERY</text>
+    <text x="144" y="265" text-anchor="middle" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.2" fill="#F8F4EA" fill-opacity="0.62">UNITED KINGDOM / GLOBAL DELIVERY</text>
   </g>
 </svg>
