@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/mazucorp/.github/main/assets/mazu-profile-banner.svg" width="100%" alt="MAZU CORP — Controlled software. Clearer decisions." />
 </p>
 
+<!-- Links hidden until the public contact routes are ready.
 <p align="center">
   <a href="https://www.mazucorp.co.uk"><strong>Website</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -9,6 +10,7 @@
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.mazucorp.co.uk/login"><strong>Customer portal</strong></a>
 </p>
+-->
 
 ---
 
