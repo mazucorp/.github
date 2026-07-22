@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="164" viewBox="0 0 1400 164" role="img" aria-labelledby="title description">
+  <title id="title">MAZU CORP LTD footer</title>
+  <desc id="description">MAZU CORP LTD, United Kingdom, copyright 2026.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#011F3B"/>
+      <stop offset="0.62" stop-color="#03223F"/>
+      <stop offset="1" stop-color="#05294B"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B8892E"/>
+      <stop offset="0.52" stop-color="#D3AC55"/>
+      <stop offset="1" stop-color="#E4CC91"/>
+    </linearGradient>
+    <pattern id="grid" width="72" height="72" patternUnits="userSpaceOnUse">
+      <path d="M72 0H0V72" fill="none" stroke="#F8F4EA" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1400" height="164" rx="28" fill="url(#panel)"/>
+  <rect width="1400" height="164" rx="28" fill="url(#grid)"/>
+  <rect x="62" y="48" width="4" height="52" rx="2" fill="#D3AC55"/>
+
+  <text x="96" y="50" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="5.5" fill="#E4CC91">MAZU CORP LTD</text>
+  <text x="96" y="86" dominant-baseline="hanging" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#F8F4EA" fill-opacity="0.68">UNITED KINGDOM  &#8226;  &#169; 2026</text>
+
+  <g transform="translate(1248 76)">
+    <circle cx="0" cy="0" r="28" fill="#03223F" stroke="#2F79CE" stroke-opacity="0.48" stroke-width="2"/>
+    <circle cx="0" cy="0" r="20" fill="none" stroke="#D3AC55" stroke-width="1.5" stroke-dasharray="92 34" transform="rotate(-90)"/>
+    <circle cx="0" cy="0" r="3.5" fill="#2F79CE"/>
+    <path d="M0 -14V-6M0 6V14M-14 0H-6M6 0H14" stroke="#F8F4EA" stroke-opacity="0.48" stroke-width="1"/>
+  </g>
+
+  <path d="M0 136H1400V136C1400 151.464 1387.46 164 1372 164H28C12.536 164 0 151.464 0 136Z" fill="url(#signal)"/>
+</svg>

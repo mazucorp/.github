@@ -19,11 +19,9 @@
 MAZU CORP is building the **Legal Contract Highlighter**, an AI-powered contract creation and analysis platform.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mazucorp/.github/main/assets/mazu-corp-boardroom.png" width="100%" alt="MAZU CORP boardroom" />
+  <img src="https://raw.githubusercontent.com/mazucorp/.github/main/assets/mazu-corp-london-drift.svg" width="100%" alt="MAZU CORP London boardroom overlooking the City of London" />
 </p>
 
----
-
 <p align="center">
-  <sub>MAZU CORP LTD · UNITED KINGDOM · © 2026</sub>
+  <img src="https://raw.githubusercontent.com/mazucorp/.github/main/assets/mazu-profile-footer.svg" width="100%" alt="MAZU CORP LTD · United Kingdom · © 2026" />
 </p>
